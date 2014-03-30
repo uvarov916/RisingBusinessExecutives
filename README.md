@@ -1,4 +1,3 @@
-RisingBusinessExecutives
-========================
+# Rising Tide Executives Website #
 
-This is the website for Rising Business Executive made by Open Web.
+Open Web BU first client project. Built with Bootstrap
